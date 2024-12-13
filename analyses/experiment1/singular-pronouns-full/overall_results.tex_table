@@ -1,0 +1,13 @@
+\begin{tabular}{llllllllll}
+\toprule
+ & text-curie-001 & text-davinci-002 & text-davinci-003 & flan-t5-small & flan-t5-large & flan-t5-xl & llama-2-7B & llama-3-8B & llama-3.1-8B \\
+\midrule
+(Intercept) & \cellcolor[HTML]{dbd9d9} -2.39 & \cellcolor[HTML]{dbd9d9} -3.32 & \cellcolor[HTML]{dbd9d9} -2.98 & \cellcolor[HTML]{dbd9d9} -1.39 & \cellcolor[HTML]{dbd9d9} -2.06 & \cellcolor[HTML]{dbd9d9} -2.45 & \cellcolor[HTML]{dbd9d9} -3.70 & \cellcolor[HTML]{dbd9d9} -3.09 & \cellcolor[HTML]{dbd9d9} -3.25 \\
+metalinguistic & -0.03 & \cellcolor[HTML]{bdffea} 0.57 & \cellcolor[HTML]{bdffea} 0.56 & \cellcolor[HTML]{fac0dc} -0.22 & \cellcolor[HTML]{bdffea} 1.06 & \cellcolor[HTML]{fac0dc} -0.79 & \cellcolor[HTML]{bdffea} 0.50 & \cellcolor[HTML]{bdffea} 0.22 & \cellcolor[HTML]{fac0dc} -0.18 \\
+refer & \cellcolor[HTML]{fac0dc} -0.16 & \cellcolor[HTML]{fac0dc} -0.22 & \cellcolor[HTML]{fac0dc} -0.17 & \cellcolor[HTML]{fac0dc} -0.04 & \cellcolor[HTML]{fac0dc} -0.64 & \cellcolor[HTML]{fac0dc} -0.09 & \cellcolor[HTML]{fac0dc} -0.03 & \cellcolor[HTML]{fac0dc} -0.15 & \cellcolor[HTML]{fac0dc} -0.04 \\
+best & \cellcolor[HTML]{bdffea} 0.37 & \cellcolor[HTML]{bdffea} 0.59 & \cellcolor[HTML]{bdffea} 0.35 & \cellcolor[HTML]{fac0dc} -0.19 & \cellcolor[HTML]{fac0dc} -0.26 & \cellcolor[HTML]{bdffea} 0.16 & \cellcolor[HTML]{bdffea} 0.29 & \cellcolor[HTML]{bdffea} 0.08 & \cellcolor[HTML]{bdffea} 0.41 \\
+choices & \cellcolor[HTML]{bdffea} 0.08 & \cellcolor[HTML]{bdffea} 1.87 & \cellcolor[HTML]{bdffea} 2.23 & 0.01 & \cellcolor[HTML]{fac0dc} -0.70 & \cellcolor[HTML]{fac0dc} -0.04 & \cellcolor[HTML]{bdffea} 0.14 & \cellcolor[HTML]{bdffea} 0.46 & \cellcolor[HTML]{bdffea} 0.75 \\
+individual_declaration & \cellcolor[HTML]{bdffea} 3.20 & \cellcolor[HTML]{bdffea} 5.05 & \cellcolor[HTML]{bdffea} 5.13 & \cellcolor[HTML]{bdffea} 0.54 & \cellcolor[HTML]{bdffea} 2.50 & \cellcolor[HTML]{bdffea} 3.02 & \cellcolor[HTML]{bdffea} 5.45 & \cellcolor[HTML]{bdffea} 4.00 & \cellcolor[HTML]{bdffea} 4.66 \\
+ideology_declaration & \cellcolor[HTML]{bdffea} 0.61 & \cellcolor[HTML]{bdffea} 3.55 & \cellcolor[HTML]{bdffea} 4.10 & \cellcolor[HTML]{bdffea} 0.34 & \cellcolor[HTML]{bdffea} 0.15 & \cellcolor[HTML]{fac0dc} -0.17 & \cellcolor[HTML]{bdffea} 0.15 & \cellcolor[HTML]{bdffea} 0.60 & \cellcolor[HTML]{bdffea} 0.71 \\
+\bottomrule
+\end{tabular}

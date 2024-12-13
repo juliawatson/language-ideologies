@@ -1,0 +1,8 @@
+,text-curie-001,text-davinci-002,text-davinci-003,flan-t5-small,flan-t5-large,flan-t5-xl
+(Intercept),-0.49,\boldnum{-0.78},-0.62,\boldnum{-1.60},-0.93,-0.30
+metalinguistic,\boldnumcolor{-0.98}{FF9E45},\boldnumcolor{-0.11}{FF9E45},0.07,-0.04,\boldnumcolor{-0.25}{FF9E45},\boldnumcolor{-0.13}{FF9E45}
+refer,\boldnumcolor{0.18}{72D6B7},\boldnumcolor{0.15}{72D6B7},\boldnumcolor{0.20}{72D6B7},\boldnumcolor{0.05}{72D6B7},\boldnumcolor{0.10}{72D6B7},\boldnumcolor{0.15}{72D6B7}
+best,\boldnumcolor{0.16}{72D6B7},\boldnumcolor{0.19}{72D6B7},\boldnumcolor{0.23}{72D6B7},-0.04,0.05,0.04
+choices,-0.02,\boldnumcolor{1.24}{72D6B7},\boldnumcolor{1.54}{72D6B7},\boldnumcolor{1.84}{72D6B7},\boldnumcolor{0.84}{72D6B7},\boldnumcolor{-0.07}{FF9E45}
+individual_declaration,\boldnumcolor{0.59}{72D6B7},\boldnumcolor{1.67}{72D6B7},\boldnumcolor{1.50}{72D6B7},\boldnumcolor{0.13}{72D6B7},\boldnumcolor{0.36}{72D6B7},\boldnumcolor{0.22}{72D6B7}
+ideology_declaration,\boldnumcolor{0.34}{72D6B7},\boldnumcolor{2.03}{72D6B7},\boldnumcolor{2.01}{72D6B7},0.01,0.06,-0.03

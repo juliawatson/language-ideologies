@@ -1,0 +1,38 @@
+,gendered_variants,neutral,masculine,feminine,n_gendered_variants,papineau_overlap
+0,"{'anchorwoman', 'anchorman'}",anchorperson,anchorman,anchorwoman,2,True
+1,"{'hitwoman', 'hitman'}",assassin,hitman,hitwoman,2,False
+2,"{'sportsman', 'sportswoman'}",athlete,sportsman,sportswoman,2,False
+3,"{'ballgirl', 'ballboy'}",ball person,ballboy,ballgirl,2,False
+4,"{'barman', 'bargirl'}",bartender,barman,bargirl,2,False
+5,"{'businesswoman', 'businessman'}",businessperson,businessman,businesswoman,2,True
+6,"{'caveman', 'cavewoman', 'cavegirl'}",caveperson,caveman,cavewoman,3,False
+7,"{'girlishly', 'boyishly'}",childishly,boyishly,girlishly,2,False
+8,"{'congresswoman', 'congressman'}",congressperson,congressman,congresswoman,2,True
+9,"{'cowgirl', 'cowboy'}",cow herder,cowboy,cowgirl,2,False
+10,"{'ambulanceman', 'ambulancewoman'}",emergency medical technician,ambulanceman,ambulancewoman,2,False
+11,"{'horsewoman', 'horseman'}",equestrian,horseman,horsewoman,2,False
+12,"{'backwoodsman', 'frontiersman', 'frontierswoman'}",explorer,frontiersman,frontierswoman,3,False
+13,"{'fangirl', 'fanboy'}",fan,fanboy,fangirl,2,False
+14,"{'farmgirl', 'farmboy'}",farm worker,farmboy,farmgirl,2,False
+15,"{'swordswoman', 'swordman', 'swordsman'}",fencer,swordsman,swordswoman,3,False
+16,"{'fisherman', 'fisherwoman'}",fisher,fisherman,fisherwoman,2,False
+17,"{'foreman', 'forewoman'}",foreperson,foreman,forewoman,2,True
+18,"{'frontwoman', 'frontman'}",frontperson,frontman,frontwoman,2,False
+19,"{'man-kind', 'womankind'}",humankind,man-kind,womankind,2,False
+20,"{'madwoman', 'madman'}",maniac,madman,madwoman,2,False
+21,"{'selectman', 'selectwoman'}",member of the board,selectman,selectwoman,2,False
+22,"{'bogeywoman', 'boogieman'}",monster,boogieman,bogeywoman,2,False
+23,"{'paperboy', 'newsboy', 'papergirl'}",newspaper delivery person,paperboy,papergirl,3,False
+24,"{'boyfriend', 'girlfriend'}",partner,boyfriend,girlfriend,2,False
+25,"{'playboy', 'playgirl'}",player,playboy,playgirl,2,False
+26,"{'policewoman', 'policeman'}",police officer,policeman,policewoman,2,True
+27,"{'newsman', 'newswoman'}",reporter,newsman,newswoman,2,False
+28,"{'servicewoman', 'serviceman'}",service member,serviceman,servicewoman,2,False
+29,"{'man-whore', 'callboy', 'callgirl'}",sex worker,man-whore,callgirl,3,False
+30,"{'marksman', 'markswoman'}",sharpshooter,marksman,markswoman,2,False
+31,"{'bondman', 'bondwoman', 'slavegirl', 'bondsman'}",slave,bondsman,bondwoman,4,False
+32,"{'snowman', 'snowgirl'}",snowperson,snowman,snowgirl,2,False
+33,"{'spokeswoman', 'spokesman'}",spokesperson,spokesman,spokeswoman,2,False
+34,"{'statesman', 'stateswoman'}",statesperson,statesman,stateswoman,2,False
+35,"{'tribeswoman', 'tribesman'}",tribesperson,tribesman,tribeswoman,2,False
+36,"{'washerman', 'washerwoman'}",washer,washerman,washerwoman,2,False

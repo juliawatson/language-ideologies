@@ -1,0 +1,3 @@
+,label,index,T,dof,alternative,p-val,CI95%,cohen-d,BF10,power,means-difference,means-difference-abs,a,b,a-mean,b-mean
+0,progressive-group > conservative-group?,T-test,43.75638183954326,1599,greater,5.9748284650232834e-276,[0.02  inf],0.31185864793515533,5.576e+271,1.0,0.01576294958107602,0.01576294958107602,progressive-group,conservative-group,0.08086749845434897,0.06510454887327295
+1,progressive-stance-group > conservative-stance-group?,T-test,51.347306420580125,1599,greater,0.0,[0.11  inf],1.3786870668442301,inf,1.0,0.11640942502406526,0.11640942502406526,progressive-stance-group,conservative-stance-group,0.16380929550517728,0.047399870481112015

@@ -1,0 +1,7 @@
+label,text-curie-001,text-davinci-002,text-davinci-003,flan-t5-small,flan-t5-large,flan-t5-xl
+progressive-group > conservative-group?,0.07***,0.15***,0.20***,0.02***,0.04***,0.08***
+progressive-stance-group > conservative-stance-group?,0.05***,0.44***,0.38***,0.02***,0.03***,0.11***
+progressive-stance-group closer to progressive-group or conservative-group?,-0.03***,-0.14***,-0.20***,0.01***,-0.04***,-0.06***
+conservative-stance-group closer to progressive-group or conservative-group?,0.02***,0.06***,0.05***,0.01***,-0.04***,0.05***
+positive-metalinguistic closer to progressive-group or conservative-group?,0.04***,-0.02,0.02,0.02***,-0.03***,-0.02***
+positive-metalinguistic closer to progressive-stance-group or conservative-stance-group?,0.03***,0.26***,0.27***,0.02***,0.01***,-0.00

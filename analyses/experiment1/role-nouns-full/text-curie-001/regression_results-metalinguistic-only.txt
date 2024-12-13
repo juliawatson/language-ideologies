@@ -1,0 +1,23 @@
+
+Family: Beta regression(3.179) 
+Link function: logit 
+
+Formula:
+p_reform ~ metalinguistic + s(item, bs = "re") + s(name, bs = "re")
+
+Parametric coefficients:
+               Estimate Std. Error z value Pr(>|z|)    
+(Intercept)    -0.22705    0.41183  -0.551    0.581    
+metalinguistic -0.81101    0.02364 -34.310   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+          edf Ref.df  Chi.sq p-value    
+s(item) 12.99     13 23630.6  <2e-16 ***
+s(name) 35.52     39   451.6  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.699   Deviance explained = 80.3%
+-REML = -15317  Scale est. = 1         n = 11200

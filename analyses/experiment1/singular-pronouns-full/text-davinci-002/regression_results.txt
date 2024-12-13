@@ -1,0 +1,29 @@
+
+Family: Beta regression(3.755) 
+Link function: logit 
+
+Formula:
+p_reform ~ metalinguistic + refer + best + choices + individual_declaration + 
+    ideology_declaration + s(item, bs = "re") + s(name, bs = "re")
+
+Parametric coefficients:
+                       Estimate Std. Error z value Pr(>|z|)    
+(Intercept)            -3.31805    0.11137  -29.79   <2e-16 ***
+metalinguistic          0.57224    0.01608   35.59   <2e-16 ***
+refer                  -0.22364    0.01217  -18.37   <2e-16 ***
+best                    0.59086    0.01218   48.53   <2e-16 ***
+choices                 1.86818    0.01546  120.82   <2e-16 ***
+individual_declaration  5.04533    0.01594  316.44   <2e-16 ***
+ideology_declaration    3.54748    0.01547  229.32   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+          edf Ref.df Chi.sq p-value    
+s(item) 38.79     39   7251  <2e-16 ***
+s(name) 38.83     39   8744  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.841   Deviance explained = 89.1%
+-REML = -48551  Scale est. = 1         n = 32000

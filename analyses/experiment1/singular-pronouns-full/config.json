@@ -1,0 +1,34 @@
+{
+    "domain": "singular_pronouns",
+    "item_path": "data/camilliere_formats-revised.csv",
+    "names": "data/names_sampled.csv",
+    "ways_of_asking": {
+        "direct": "{}",
+        "likely_complete": "The word most likely to complete the sentence \"{}\" is [FORM]",
+        "best_complete": "The best word to complete the sentence \"{}\" is [FORM]",
+        "likely_refer": "The word most likely to refer to {} in the sentence \"{}\" is [FORM]",
+        "best_refer": "The best word to refer to {} in the sentence \"{}\" is [FORM]"
+    },
+    "contexts": {
+        "null_context": "",
+        "choices-pronoun": "You are choosing what pronoun to use.",
+        "individual-declaration": "Note that {} uses they/them pronouns.",
+        "ideology-declaration": "Assume you want to use language that is gender inclusive."
+    },
+    "pronoun_sets_comprehensive": {
+        "they": ["they", "she", "he"], 
+        "them": ["them", "her", "him"], 
+        "their": ["their", "her", "his"], 
+        "themselves": ["themselves", "herself", "himself", "themself"]
+    },
+    "pronoun_sets_permutations": {
+        "they": ["they", "she", "he"], 
+        "them": ["them", "her", "him"], 
+        "their": ["their", "her", "his"], 
+        "themselves": ["themselves", "herself", "himself"]    
+    },
+    "reform_variants": ["they", "them", "themselves", "themself", "their"],
+    "feminine_variants": ["she", "her", "herself"],
+    "masculine_variants": ["he", "him", "his", "himself"],
+    "expected_n_data_points": 32000
+}

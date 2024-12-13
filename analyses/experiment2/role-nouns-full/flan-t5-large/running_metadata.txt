@@ -1,0 +1,4 @@
+2024-01-12 23:29:28.257336+00:00
+Total prompts: 8960
+Device: cuda
+Total seconds: 1343.3311796188354

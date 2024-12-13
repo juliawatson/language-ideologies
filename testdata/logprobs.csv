@@ -1,0 +1,3 @@
+name,item,way_of_asking,context,logprobs_dict
+Alex,[NOUN] must have stubbed [FORM] toe.,best_complete,ideology-declaration,"{'their': -1., 'her': -10., 'his': -5.}"
+Bella,[NOUN] must have stubbed [FORM] toe.,best_complete,ideology-declaration,"{'their': -2., 'her': -9., 'his': -5.}"

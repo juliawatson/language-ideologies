@@ -1,0 +1,3 @@
+name,item,form_set,perm,way_of_asking,context,prompt_text,model,logprobs_dict
+Cameron,anchor,"['anchor', 'anchorman', 'anchorwoman']",nan,direct,null_context,Cameron is an [FORM].,text-davinci-003,"{'anchor': -28.0272108, 'anchorman': -30.01989752, 'anchorwoman': -33.5302726}"
+Cameron,anchor,"['anchor', 'anchorman', 'anchorwoman']",nan,likely_complete,null_context,"The word most likely to complete the sentence ""Cameron is an ____."" is [FORM]",text-davinci-003,"{'anchor': -16.67619, 'anchorman': -19.1389412924, 'anchorwoman': -29.374825}"

@@ -1,0 +1,13 @@
+\begin{tabular}{llllllllll}
+\toprule
+ & text-curie-001 & text-davinci-002 & text-davinci-003 & flan-t5-small & flan-t5-large & flan-t5-xl & llama-2-7B & llama-3-8B & llama-3.1-8B \\
+label &  &  &  &  &  &  &  &  &  \\
+\midrule
+progressive-group > conservative-group? & \cellcolor[HTML]{bdffea} 0.08 & \cellcolor[HTML]{bdffea} 0.15 & \cellcolor[HTML]{bdffea} 0.23 & \cellcolor[HTML]{bdffea} 0.03 & \cellcolor[HTML]{bdffea} 0.05 & \cellcolor[HTML]{bdffea} 0.08 & \cellcolor[HTML]{bdffea} 0.05 & \cellcolor[HTML]{bdffea} 0.05 & \cellcolor[HTML]{bdffea} 0.05 \\
+progressive-stance-group > conservative-stance-group? & \cellcolor[HTML]{bdffea} 0.06 & \cellcolor[HTML]{bdffea} 0.48 & \cellcolor[HTML]{bdffea} 0.43 & \cellcolor[HTML]{bdffea} 0.03 & \cellcolor[HTML]{bdffea} 0.02 & \cellcolor[HTML]{bdffea} 0.12 & \cellcolor[HTML]{bdffea} 0.16 & \cellcolor[HTML]{bdffea} 0.17 & \cellcolor[HTML]{bdffea} 0.18 \\
+progressive-stance-group closer to progressive-group or conservative-group? & \cellcolor[HTML]{bdffea} -0.04 & \cellcolor[HTML]{bdffea} -0.14 & \cellcolor[HTML]{bdffea} -0.23 & \cellcolor[HTML]{bdffea} 0.01 & \cellcolor[HTML]{bdffea} -0.04 & \cellcolor[HTML]{bdffea} -0.06 & \cellcolor[HTML]{bdffea} -0.05 & \cellcolor[HTML]{bdffea} -0.05 & \cellcolor[HTML]{bdffea} -0.04 \\
+conservative-stance-group closer to progressive-group or conservative-group? & \cellcolor[HTML]{bdffea} 0.02 & \cellcolor[HTML]{bdffea} 0.06 & \cellcolor[HTML]{bdffea} 0.05 & \cellcolor[HTML]{bdffea} 0.02 & \cellcolor[HTML]{bdffea} -0.04 & \cellcolor[HTML]{bdffea} 0.06 & \cellcolor[HTML]{bdffea} 0.01 & -0.01 & -0.01 \\
+positive-metalinguistic closer to progressive-group or conservative-group? & \cellcolor[HTML]{bdffea} 0.04 & -0.00 & 0.03 & \cellcolor[HTML]{bdffea} 0.02 & \cellcolor[HTML]{bdffea} -0.03 & \cellcolor[HTML]{bdffea} -0.02 & \cellcolor[HTML]{bdffea} -0.01 & \cellcolor[HTML]{bdffea} 0.01 & -0.01 \\
+positive-metalinguistic closer to progressive-stance-group or conservative-stance-group? & \cellcolor[HTML]{bdffea} 0.04 & \cellcolor[HTML]{bdffea} 0.30 & \cellcolor[HTML]{bdffea} 0.32 & \cellcolor[HTML]{bdffea} 0.03 & \cellcolor[HTML]{bdffea} 0.02 & -0.01 & \cellcolor[HTML]{bdffea} 0.09 & \cellcolor[HTML]{bdffea} 0.14 & \cellcolor[HTML]{bdffea} 0.11 \\
+\bottomrule
+\end{tabular}

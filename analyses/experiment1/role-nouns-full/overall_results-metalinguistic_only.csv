@@ -1,0 +1,3 @@
+,text-curie-001,text-davinci-002,text-davinci-003,flan-t5-small,flan-t5-large,flan-t5-xl
+(Intercept),-0.2271,0.3355,0.5117,-1.0736**,-0.6675,-0.2444
+metalinguistic,-0.8110***,0.0004,0.2844***,-0.0678**,-0.1840***,-0.0385

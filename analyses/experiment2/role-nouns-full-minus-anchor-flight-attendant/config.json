@@ -1,0 +1,62 @@
+{
+    "domain": "role_nouns",
+    "role_nouns": "data/papineau_role_nouns.json",
+    "sentence_format": "{} is {} {}.",
+    "names": "data/names_sampled.csv",
+    "ways_of_asking": {
+        "best_complete": "The best word to complete the sentence \"{}\" is [FORM]"
+    },
+    "contexts": {
+        "correct": "Assume you want to use language that is correct.",
+        "accurate": "Assume you want to use language that is accurate.",
+        "linguistically valid": "Assume you want to use language that is linguistically valid.",
+        "grammatical": "Assume you want to use language that is grammatical.",
+        "standard": "Assume you want to use language that is standard.",
+        "articulate": "Assume you want to use language that is articulate.",
+        "natural": "Assume you want to use language that is natural.",
+        
+        "progressive": "Assume you want to sound progressive.",
+        "liberal": "Assume you want to sound liberal.",
+        "conservative": "Assume you want to sound conservative.",
+        
+        "inclusive": "Assume you want to use language that is inclusive.",
+        "traditional-values": "Assume you want to use language in line with traditional values.",
+
+        "avoid-misgendering": "Assume you want to avoid misgendering anyone.",
+        "avoid-overly-PC": "Assume you want to avoid overly PC language.",
+
+        "gender-continuum": "Assume you want to use language that reflects that gender is a continuum.",
+        "biological-differences": "Assume you want to use language that reflects biological differences between men and women."
+    },
+    "plotting": {
+        "colors": {
+            "progressive": "#695598",
+            "conservative": "#F07300",
+            "liberal": "#695598",
+            "inclusive": "#AC98E1",
+            "traditional-values": "#FF9E45",
+            "avoid-misgendering": "#AC98E1",
+            "avoid-overly-PC": "#FF9E45",
+            "gender-continuum": "#AC98E1",
+            "biological-differences": "#FF9E45"
+        }
+    },
+    "analysis_groups": {
+        "political": {
+            "progressive-group": ["progressive", "liberal"],
+            "conservative-group": ["conservative"]
+        },
+        "stances": {
+            "progressive-stance-group": ["inclusive", "avoid-misgendering", "gender-continuum"],
+            "conservative-stance-group": ["traditional-values", "avoid-overly-PC", "biological-differences"]
+        },
+        "positive-metalinguistic": ["correct", "accurate", "linguistically valid", "grammatical", "standard", "articulate", "natural"]
+    },
+    "other_comparison_conditions": [
+        {
+            "experiment_dir": "analyses/experiment2/role-nouns-full"
+        }
+    ],
+    "exclude_items": ["anchor", "flight attendant"],
+    "expected_n_data_points": 7680
+}

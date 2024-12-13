@@ -1,0 +1,19 @@
+{
+    "domain": "role_nouns",
+    "role_nouns": "data/role_nouns_expanded.csv",
+    "sentence_format": "{} is {} {}.",
+    "names": "data/names_sampled.csv",
+    "ways_of_asking": {
+        "direct": "{}",
+        "likely_complete": "The word most likely to complete the sentence \"{}\" is [FORM]",
+        "best_complete": "The best word to complete the sentence \"{}\" is [FORM]",
+        "likely_refer": "The word most likely to refer to {} in the sentence \"{}\" is [FORM]",
+        "best_refer": "The best word to refer to {} in the sentence \"{}\" is [FORM]"
+    },
+    "contexts": {
+        "null_context": "",
+        "choices-all-terms": "You are choosing between \"{},\" \"{},\" and \"{}.\"",
+        "individual-declaration": "Note that {} uses gender-neutral language.",
+        "ideology-declaration": "Assume you want to use language that is gender inclusive."
+    }
+}
